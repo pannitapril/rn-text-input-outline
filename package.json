@@ -1,21 +1,21 @@
 {
-  "name": "@miidx/rn-custom-component",
+  "name": "@miidx/rn-text-input-outline",
   "version": "0.9.0",
-  "description": "This is template repo for creating custom component",
+  "description": "Responsive component of text field with outline border with custom color",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/miidx/rn-component-template.git"
+    "url": "git+https://github.com/miidx/rn-text-input-outline.git"
   },
-  "author": "firstyuyu",
+  "author": "pannitapril",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/miidx/rn-component-template/issues"
+    "url": "https://github.com/miidx/rn-text-input-outline/issues"
   },
-  "homepage": "https://github.com/miidx/rn-component-template#readme",
+  "homepage": "https://github.com/miidx/rn-text-input-outline#readme",
   "dependencies": {
     
   },
