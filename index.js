@@ -1,3 +1,3 @@
-import CustomComponent from './src/custom-component';
+import Input from './src/text-field-outline';
 
-export default CustomComponent;
+export default Input;

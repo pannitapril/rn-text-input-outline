@@ -1,6 +1,6 @@
 {
   "name": "@miidx/rn-text-input-outline",
-  "version": "0.9.0",
+  "version": "0.9.19",
   "description": "Responsive component of text field with outline border with custom color",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/miidx/rn-text-input-outline#readme",
   "dependencies": {
-    
+    "react-native-vector-icons": "^6.6.0"
   },
   "peerDependencies": {
     "react": "*",
